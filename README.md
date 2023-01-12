@@ -47,7 +47,7 @@ A good check before sending your task is to unzip the Zip archive into a new fol
 ### Your task
 Your task is to build an HTTP API which could be used for calculating the delivery fee.
 
-Please implement your solution in either **Python, Kotlin, Scala, or Java**. Feel free to use libraries / frameworks.
+Please implement your solution in either **Python, Kotlin or Scala**. Feel free to use libraries / frameworks.
 
 **Note that your technology choice here defines the scope the possible technical interview and your focus area if starting to work at Wolt 😊**
 
