@@ -131,6 +131,8 @@ Each venue also has a "Favorite" action next to it. "Favorite" works as a toggle
 
 For Android you should be following the Google guidelines on how to develop an Android application. Specifically, it should use Kotlin as the language, MVVM as the UI architectural pattern and Clean architecture as the data access pattern.
 
+For iOS we would be looking for Swift using UIKit.
+
 ## Example of design
 
 ![Example user interface](./example-mobile-ui.png)
