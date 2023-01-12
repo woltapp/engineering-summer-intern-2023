@@ -127,6 +127,10 @@ Build an app that displays a list of venues for the user's current location. The
 
 Each venue also has a "Favorite" action next to it. "Favorite" works as a toggle (true/false) and changes the icon depending on the state. Your app should remember these states and reapply them to venues when the app is opened again.
 
+## Platform-specific requirements
+
+For Android you should be following the Google guidelines on how to develop an Android application. Specifically, it should use Kotlin as the language, MVVM as the UI architectural pattern and Clean architecture as the data access pattern.
+
 ## Example of design
 
 ![Example user interface](./example-mobile-ui.png)
