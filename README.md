@@ -135,6 +135,10 @@ For iOS we would be looking for Swift using UIKit.
 
 ## Example of design
 
+You can see the following example design in more detail in this [Figma project](https://www.figma.com/file/T8lq53pR8etMduzjlTU3Qh/Android-Engineering-assignment-assets?node-id=0%3A1&t=DZ8XHrLrUt5j6wU4-1). Information such as typeface, font size, margin and padding of views, etc. should be accessible after login in to your personal Figma account.
+
+The password to access this Figma project is `Y2MeWWOLBi`.
+
 ![Example user interface](./example-mobile-ui.png)
 
 ## Actual input 
@@ -174,7 +178,7 @@ GET https://restaurant-api.wolt.com/v1/pages/restaurants?lat=60.170187&lon=24.93
 We expect you to be pragmatic and not overcomplicate things. You can take shortcuts where it makes sense to you.
 
 ### Do I need to build any animations?
-This is a creative task and we would love to see how your approach. At Wolt we love good user experiences, so any animation that brings delights would be appreciated. One good example would be the favourite button.
+This is a creative task and we would love to see your approach. At Wolt we love good user experiences, so any animation that brings delights would be appreciated. One good example would be the favourite button.
 
 ### Does my app need to support different screen orientations?
 No, portrait mode is good with us.
