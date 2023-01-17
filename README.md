@@ -4,7 +4,7 @@ Preliminary Assignment for Engineering Positions
 
 Welcome! We are delighted to see you applying. Now it's your time to shine.
 
-**NOTE! Please do only *one* of backend, frontend OR mobile implementation.**
+**NOTE! Please do only *one* of backend OR frontend OR mobile implementation.**
 
 <p align="center" border="none">
   <img alt="Yuho, the Wolt mascot" src="./yuhos.png" align="center">
