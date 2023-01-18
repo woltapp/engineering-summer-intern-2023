@@ -6,6 +6,7 @@ Welcome! We are delighted to see you applying. Now it's your time to shine.
 
 **NOTE! Please do only *one* of backend OR frontend OR mobile implementation.**
 
+**Please take your time, use the entire time available to complete this to the best of your ability - we do not prioritise submissions by speed!** 
 <p align="center" border="none">
   <img alt="Yuho, the Wolt mascot" src="./yuhos.png" align="center">
 </p>
@@ -15,6 +16,7 @@ Welcome! We are delighted to see you applying. Now it's your time to shine.
 The goal of the assignment is to showcase your coding skills and ability to develop features. We DON'T expect you to build production quality code. This is a highly important part of the hiring process so it's crucial to put effort into this without making it too bloated. Reviewers will put weight on three main aspects: code quality, maintainability, and testing. Based on the results of the assignment review, we will make the decision on proceeding to the technical interview.
 
 Your task is to write a delivery fee calculator. This code is needed when a customer is ready with their shopping cart and we’d like to show them how much the delivery will cost. The delivery price depends on the cart value, the number of items in the cart, the time of the order, and the delivery distance.
+
 
 ### Specification
 Rules for calculating a delivery fee
