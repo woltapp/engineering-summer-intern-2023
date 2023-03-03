@@ -1,5 +1,7 @@
 # Wolt Summer 2023 Engineering Internships
 
+> Application period for the summer internships has ended, thanks for all the applicants! However, we have plenty of open roles in [https://careers.wolt.com/en](https://careers.wolt.com/en) 🙂 
+
 Preliminary Assignment for Engineering Positions
 
 Welcome! We are delighted to see you applying. Now it's your time to shine.
