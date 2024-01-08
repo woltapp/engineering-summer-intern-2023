@@ -110,7 +110,7 @@ Build a delivery fee calculator app which calculates a delivery fee based on use
 
 Feel free to design and implement the user interface how you want. Below is an example of what it could look like.
 
-When reviewing the assignment we are focusing on the code quality and structure of your app. However, good UX & design as well as attention to accessability will definitely give you bonus points.
+When reviewing the assignment we are focusing on the code quality and structure of your app. However, good UX & design as well as attention to accessibility will definitely give you bonus points.
 
 ![Example user interface](./example-ui.png)
 
